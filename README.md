@@ -10,7 +10,7 @@ This is a classic two-player Tic-Tac-Toe game. The interface is clean and intuit
 
 ## 🔗 Live Demo
 
-👉 [Play the Game Now](https://Kothakonda-Vardhan.github.io/Tic-Tac-Toe/) 👈
+👉 [Play the Game Now](https://tic-tac-toe-4lms.vercel.app/) 👈
 
 ---
 
