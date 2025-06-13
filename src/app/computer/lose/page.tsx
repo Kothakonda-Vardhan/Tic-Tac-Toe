@@ -1,7 +1,7 @@
 "use client";
 import { useRouter } from "next/navigation";
 
-export default function lose() {
+export default function Lose() {
   const router = useRouter();
 
   return (

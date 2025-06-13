@@ -1,7 +1,7 @@
 "use client";
 import { useRouter } from "next/navigation";
 
-export default function draw() {
+export default function Draw() {
   const router = useRouter();
 
   return (

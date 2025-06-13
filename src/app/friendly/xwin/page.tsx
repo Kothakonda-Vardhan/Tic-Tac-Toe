@@ -1,7 +1,7 @@
 "use client";
 import { useRouter } from "next/navigation";
 
-export default function xwin() {
+export default function Xwin() {
   const router = useRouter();
 
   return (

@@ -304,13 +304,6 @@ export default function Friendly() {
     setScores(updated.scores);
   };
 
-  const resetGame = () => {
-    setStarter(null);
-    setDifficulty(null);
-    setGameOver(false);
-    setGrid(Array.from({ length: 3 }, () => Array(3).fill(-1)));
-    setTurn(null);
-  };
 
   // Show difficulty & starter choice screen
   if (starter === null || difficulty === null) {

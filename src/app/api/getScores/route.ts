@@ -9,7 +9,7 @@ export async function POST(req: NextRequest) {
   const db = client.db("details");
   const collection = db.collection("scores");
 
-  let data = await collection.findOne({ deviceId });
+  const data = await collection.findOne({ deviceId });
 
   if (!data) {
     const newData = {
