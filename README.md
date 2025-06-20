@@ -42,29 +42,16 @@ Tic-Tac-Toe/
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 
-### ▶️ Run the Game
+## ☁️ Deploy on Vercel
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kothakonda-Vardhan/Tic-Tac-Toe.git
-   ```
+To deploy this project on [Vercel](https://vercel.com):
 
-2. Navigate to the project directory:
-   ```bash
-   cd Tic-Tac-Toe
-   ```
-
-3. Open the game:
-   - Double-click `index.html`, or
-   - Run it with Live Server (in VS Code), or
-   - Use:
-     ```bash
-     open index.html  # Mac
-     start index.html # Windows
-     ```
-
----
-
+1. **Fork or clone** this repository.  
+2. **Login** to your Vercel account (or sign up).  
+3. Click **“New Project”** and import your GitHub repo.  
+4. Choose the project — no build settings are needed (static site).
+5. Upload the Environment Variables.
+6. Click **“Deploy”** — your game will be live in seconds!
 ## 🕹️ How to Play
 
 1. Player **X** goes first.
@@ -91,12 +78,6 @@ Tic-Tac-Toe/
 - 🧮 Scoreboard to track multiple rounds
 - 🔊 Sound effects for actions
 - 🎨 Better animations for win/draw
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
